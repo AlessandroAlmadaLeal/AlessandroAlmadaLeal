@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlessandroAlmadaLeal
 - 👀 I’m interested in collaborate & learning.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Web dev.
-- 📫 How to reach me? alessandro.aleh42@gmail.com
+- 🌱 I’m currently learning Python, .NET C#, JavaScript, SQL and more!
+- 💞️ I’m looking to collaborate on Web development, Full-stack and Dev Ops.
+- 📫 How to reach me? alessandro.aleh42@gmail.com.
 
 <!---
 AlessandroAlmadaLeal/AlessandroAlmadaLeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
